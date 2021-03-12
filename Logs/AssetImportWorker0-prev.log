@@ -1,0 +1,153 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'sr' Physical Memory: 8091 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Unity\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unity/Tower defence
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56116
+Successfully changed project path to: E:/Unity/Tower defence
+E:/Unity/Tower defence
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 65.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path E:/Unity/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity/Tower defence/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     8171 MB
+    Driver:   27.20.14501.28009
+Initialize mono
+Mono path[0] = 'E:/Unity/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Unity/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56272
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/Unity/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: E:/Unity/2020.2.1f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.004100 seconds.
+Native extension for Lumin target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 41.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.556 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001153 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.583 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1135 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.7 MB.
+System memory in use after: 58.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1582.
+Total: 2.505300 ms (FindLiveObjects: 0.270900 ms CreateObjectMapping: 0.069800 ms MarkObjects: 2.082000 ms  DeleteObjects: 0.081400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Imports/pixil-frame-0.png
+  artifactKey: Guid(3dbdd2a267ff78245ba40af44521df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/pixil-frame-0.png using Guid(3dbdd2a267ff78245ba40af44521df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fc170457aa31e55d95ba60f37d91fd0') in 0.258481 seconds
+  Import took 0.295021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.020744 seconds.
+  path: Assets/Imports/pixil-frame-0.png
+  artifactKey: Guid(3dbdd2a267ff78245ba40af44521df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/pixil-frame-0.png using Guid(3dbdd2a267ff78245ba40af44521df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aaba7d33e177620a80ad28fa53c0b73') in 0.202265 seconds
+  Import took 0.220670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 168.711306 seconds.
+  path: Assets/Imports/pixil-frame-0.png
+  artifactKey: Guid(3dbdd2a267ff78245ba40af44521df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/pixil-frame-0.png using Guid(3dbdd2a267ff78245ba40af44521df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78aa09ec0d066ed1d5eed6612c6c213') in 0.059303 seconds
+  Import took 0.128192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075008 seconds.
+  path: Assets/Imports/pixil-frame-0.png
+  artifactKey: Guid(3dbdd2a267ff78245ba40af44521df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/pixil-frame-0.png using Guid(3dbdd2a267ff78245ba40af44521df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78aa09ec0d066ed1d5eed6612c6c213') in 0.010162 seconds
+  Import took 0.013630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.267418 seconds.
+  path: Assets/Imports/pixil-frame-0.png
+  artifactKey: Guid(3dbdd2a267ff78245ba40af44521df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/pixil-frame-0.png using Guid(3dbdd2a267ff78245ba40af44521df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ac1564ff8689241324286f46984e62') in 0.009248 seconds
+  Import took 0.011999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008046 seconds.
+  path: Assets/Imports/pixil-frame-0.png
+  artifactKey: Guid(3dbdd2a267ff78245ba40af44521df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/pixil-frame-0.png using Guid(3dbdd2a267ff78245ba40af44521df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ac1564ff8689241324286f46984e62') in 0.008901 seconds
+  Import took 0.011515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.599383 seconds.
+  path: Assets/Imports/pixil-frame-0.png
+  artifactKey: Guid(3dbdd2a267ff78245ba40af44521df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/pixil-frame-0.png using Guid(3dbdd2a267ff78245ba40af44521df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55b28ff6d7257d176205ff55aeec14c') in 0.025225 seconds
+  Import took 0.041366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 450.838233 seconds.
+  path: Assets/Imports/pixil-frame-0 (1).png
+  artifactKey: Guid(557e377c53f47464f84f8d120a4ec669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/pixil-frame-0 (1).png using Guid(557e377c53f47464f84f8d120a4ec669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54837c2214635f705d19f23aa8ad9c16') in 0.023201 seconds
+  Import took 0.042271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.887596 seconds.
+  path: Assets/Imports/pixil-frame-0 (1).png
+  artifactKey: Guid(557e377c53f47464f84f8d120a4ec669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/pixil-frame-0 (1).png using Guid(557e377c53f47464f84f8d120a4ec669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9ed8f02419bd981cd9ecd0162e4107b') in 0.026061 seconds
+  Import took 0.050136 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
